@@ -1,106 +1,24 @@
-<h1 align="center">Hi 👋, I'm  Mahmoud Sayed Mohamed</h1>
-<h3 align="center">Student at Assiut National University, Egypt🌟.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+# 💫 About Me:
+👨🏽‍💻 I’m currently Sophomore Student at Assiut National University , Faculty of Computer and AI, Software Engineering Department<br>🌱 I’m currently Learning Backend ASP.NET Core, MySQL, Data Structure, Data Analysis With Python<br>🤔 My interest lies in FullStack .NET Framework Development, BlockChain, Compatitive Programming<br>💬 Ask me about anything from mahmoudprofessor757@gmail.com
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61571235107882) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prof.guts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-sayed-mohamed-3ba9b1302) 
 
-- 📫 How to reach me **adampithewan@gmail.com**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ProfThorfinn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ProfThorfinn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfThorfinn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ProfThorfinn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=ProfThorfinn&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
-
-<br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[Adam-pw](https://github.com/Adam-pw)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
