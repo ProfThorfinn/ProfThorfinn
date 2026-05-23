@@ -9,16 +9,18 @@
 <img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Hello 👋
-- I'm Mahmoud Sayed, a passionate Software Engineering student and Backend .NET Developer who enjoys building scalable, efficient, and real-world software solutions using modern Microsoft technologies.
-- I specialize in Backend Development with ASP.NET Core and have hands-on experience building projects using Clean Architecture, Entity Framework Core, LINQ, SQL Server, JWT Authentication, SignalR, and RESTful APIs. I’m deeply interested in writing clean, maintainable, and production-ready code while continuously improving my problem-solving and software design skills.
-- Over time, I’ve worked on several real-world projects including Management Systems, E-Commerce Platforms, Attendance & Notification Systems, and Console-Based Applications that strengthened my understanding of Software Engineering principles, Design Patterns, SOLID Principles, and Database Design.
+ Hello 👋
+I'm Mahmoud Sayed, a passionate Software Engineering student and Backend .NET Developer who enjoys building scalable, efficient, and real-world software solutions using modern Microsoft technologies.
+I specialize in Backend Development with ASP.NET Core and have hands-on experience building projects using Clean Architecture, Entity Framework Core, LINQ, SQL Server, JWT Authentication, SignalR, and RESTful APIs. I’m deeply interested in writing clean, maintainable, and production-ready code while continuously improving my problem-solving and software design skills.
+Over time, I’ve worked on several real-world projects including Management Systems, E-Commerce Platforms, Attendance & Notification Systems, and Console-Based Applications that strengthened my understanding of Software Engineering principles, Design Patterns, SOLID Principles, and Database Design.
+
 - Currently, I’m expanding my knowledge in:
 * System Design
 * Scalable Backend Architectures
 * Advanced Data Structures & Algorithms
 * Full-Stack .NET Development
 * Competitive Programming
+
 - I enjoy learning new technologies, solving challenging problems, and transforming ideas into impactful applications. My goal is to become a highly skilled Software Engineer capable of building systems that are efficient, scalable, and user-focused.
 
 
