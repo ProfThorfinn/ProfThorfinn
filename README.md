@@ -15,13 +15,13 @@ I specialize in Backend Development with ASP.NET Core and have hands-on experien
 Over time, I’ve worked on several real-world projects including Management Systems, E-Commerce Platforms, Attendance & Notification Systems, and Console-Based Applications that strengthened my understanding of Software Engineering principles, Design Patterns, SOLID Principles, and Database Design.
 
 - Currently, I’m expanding my knowledge in:
-* System Design
-* Scalable Backend Architectures
-* Advanced Data Structures & Algorithms
-* Full-Stack .NET Development
-* Competitive Programming
+  * System Design
+  * Scalable Backend Architectures
+  * Advanced Data Structures & Algorithms
+  * Full-Stack .NET Development
+  * Competitive Programming
 
-- I enjoy learning new technologies, solving challenging problems, and transforming ideas into impactful applications. My goal is to become a highly skilled Software Engineer capable of building systems that are efficient, scalable, and user-focused.
+I enjoy learning new technologies, solving challenging problems, and transforming ideas into impactful applications. My goal is to become a highly skilled Software Engineer capable of building systems that are efficient, scalable, and user-focused.
 
 
 ## 🧠 My Focus Areas
